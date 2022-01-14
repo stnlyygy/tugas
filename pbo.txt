@@ -1,1 +1,8 @@
 halo
+bagian pemograman yang belom saya pahami
+*perulangan ( for,foreach,while,do-while)
+*struktur kontrol keputusan (if..else,else,if,else,operator temary,switch case
+*array
+bagian pemograman opp yang tidak saya pahami
+*polymorphism
+dependency injection 
